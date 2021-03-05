@@ -1,6 +1,6 @@
 {
   "name": "ng-finpass-lodash",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "description": "An Angular module wrapper for lodash",
   "main": "build/ng-lodash.js",
   "scripts": {
